@@ -46,8 +46,7 @@ An innovative solution against threats in enterprises’ most critical and expos
 ## PREEMPTIVE DEFENSE 
 Making malware believe it’s in an unattractive/hostile environment to attack, reducing its motivation and the chance of infection, e.g. by creating a sandbox/VM environment which deter malware.
 
-<img  title="PREEMPTIVE DEFENSE" alt="PREEMPTIVE DEFENSE" src="https://user-images.githubusercontent.com/121154299/226611661-6c99028f-66db-4e6f-a5f6-7b63f8848c0d.png">
-
+<img  title="PREEMPTIVE DEFENSE" alt="PREEMPTIVE DEFENSE" src="https://user-images.githubusercontent.com/121154299/226841120-9021123e-1567-4a58-be70-bb607eb7c8fc.png">
 
 ## PROACTIVE DEFENSE
 Actively responding to threats as they evolve, changing the outcome of the attack through all the stages of the Endpoint Kill Chain, e.g. by deceiving and stopping Ransomware, thinking it succeeded encrypting the files as the solution safeguard them.
@@ -68,9 +67,8 @@ The Key Features Are:
 -	Can operate outside the corporate network
 -	Stop millions of threats using 1 defense evasion
 
-
 <img title="Invinsense Deception Confuses Adversaries And Makes Your Detection And Response Faster" alt="Invinsense Deception Confuses Adversaries And Makes Your
-Detection And Response Faster" src="https://user-images.githubusercontent.com/121154299/226612668-2eb34feb-6b8e-4025-938a-7014c2c56aac.png">
+Detection And Response Faster" src="https://user-images.githubusercontent.com/121154299/226840900-0a95ac66-348a-4dfb-81ec-2347542dc31e.png">
 
 Patching often is the right thing to do. One of the favorite tactics of adversaries is to exploit unpatched machines or software and enter an organization. Stopping adversaries completely may not be possible but making it harder for them is very much possible. Patches are new or updated lines of code that determine how an operating system, platform, or application behaves. Patches are usually released as needed to fix mistakes in code, improve the performance of existing features, or add new features to software. Patches are always released as updates to existing software, and are not newly compiled OSs, platforms, or applications.
 Because modifications like these are usually quicker to distribute than minor or major software releases, patches are regularly used as network security tools against cyber-attacks, security breaches, and malware —vulnerabilities that are caused by emerging threats, outdated patches, or system misconfigurations. One of the hardest tasks for any organization is getting 100% patched. Every time you get a Common Vulnerabilities and Exposure (CVE) notification or Information Assurance Vulnerability Alert (IAVA) mandated by security, you have to kick into and get the patches installed which is never simple and easy, still we can automate to the best possible extent.
